@@ -20,6 +20,9 @@ module.exports = {
       },
       backgroundImage: {
         // noise: "url('../assets/images/noise.webp')",
+      },
+      fontSize: {
+        small: '0.45rem',
       }
     },
   },

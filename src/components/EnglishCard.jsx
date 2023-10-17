@@ -12,7 +12,7 @@ export default function EnglishCard() {
       rel="noopener noreferrer"
       className="text-white relative rounded-3xl flex overflow-hidden aspect-square shadow-sm bg-[#2ab9adb9] p-4 justify-center items-center hover:scale-[103%] transition duration-500 ease-in-out cursor-pointer"
     >
-      <MdOpenInNew className="absolute right-4 bottom-4 top-auto md:right-8 md:top-8 text-xl text-white dark:text-[#ffffffaa]"/>
+      <MdOpenInNew className="absolute right-2 top-2 md:right-8 md:top-8 text-xl text-white dark:text-[#ffffffaa]"/>
       <div className="">
         <div className="flex justify-center items-center flex-col">
           <p className="text-xs hidden md:block md:text-lg text-center uppercase font-base">

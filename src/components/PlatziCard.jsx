@@ -33,7 +33,7 @@ export default function PlatziCard() {
           />
           )}
       </div>
-      <MdOpenInNew color="black" className="absolute right-4 bottom-4 top-auto md:right-8 md:top-8 text-xl text-black dark:text-[#ffffffaa]"/>
+      <MdOpenInNew color="black" className="absolute right-2 top-2 md:right-8 md:top-8 text-xl text-black dark:text-[#ffffffaa]"/>
       <div className="w-full">
           <Image src={certificated} className="" alt=""/>
         <p className="text-xs md:text-3xl font-bold text-black capitalize">

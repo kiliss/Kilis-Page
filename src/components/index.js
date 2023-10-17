@@ -4,7 +4,6 @@ import ThemeCard from "./ThemeCard";
 import LanguagueCard from "./LanguagueCard";
 import AboutCard from "./AboutCard";
 import BirthdayCard from "./BirthdayCard";
-import TwitterCard from "./TwitterCard";
 import EmailCard from "./EmailCard";
 import Skills from "./Skills";
 import GithubCard from "./GithubCard";
@@ -26,7 +25,6 @@ export {
   LanguagueCard,
   AboutCard,
   BirthdayCard,
-  TwitterCard,
   EmailCard,
   Skills,
   GithubCard,
